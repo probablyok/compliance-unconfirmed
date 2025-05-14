@@ -1,0 +1,19 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	"music.vault_view_initial" = 
+	{
+		base = "music.a3_distillery.vault_view"
+        volume = 1
+        fade_in = 2
+        delay = 0
+	}
+	
+	"music.zombie_music" = 
+	{
+		base = "Music.a2_pistol_train_xombies"
+        volume = 2
+        fade_in = 2
+		fade_out = 2
+        delay = 0
+	}
+}
